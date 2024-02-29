@@ -1,9 +1,11 @@
-/*!
- * VERSION 1.0
+/**!
+ * Query Parameters
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
  * Made this before the one on turbowarp, just this is V2.
  * Made in an hour.
- * By 0znzw | Licensed Under the MIT License
- * DO NOT REMOVE THIS COMMENT
  */
 (function(Scratch) {
   'use strict';

@@ -1,7 +1,7 @@
 /**!
  * @author 0znzw https://scratch.mit.edu/users/0znzw
  * @version 1.0
- * @copyright MIT License
+ * @copyright MIT & LGPLv3 License
  * @borrows Thread & _StackFrame classes from {VM}
  * @fileoverview Error Stop extension
  * @description Stop errors from extensions from pausing block execution!

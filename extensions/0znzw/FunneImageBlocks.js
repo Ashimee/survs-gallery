@@ -1,12 +1,11 @@
-/**
- *
- * All code but patching by 0znzw
- * Patch code by CST1229
- * All other code is by 0znzw
+/**!
+ * Image Blocks
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @author CST1229 https://scratch.mit.edu/users/CST1229/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
  * Inspired by TheShovel and her among us blocks, along with inline blocks.
- * DO NOT REMOVE THIS COMMENT
- * LICENSED UNDER MIT LICENSE | v1.0 en-us | 2023
- *
  */
 (function (Scratch) {
   if (!Scratch.extensions.unsandboxed) {

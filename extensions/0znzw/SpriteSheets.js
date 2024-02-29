@@ -1,11 +1,8 @@
-// Name: Sprite Sheets
-// ID: 0znzwSpriteSheetsJS
-// Description: Handle Sprite Sheets! (fancy yes yes /j)
-// By: 0znzw <https://scratch.mit.edu/users/0znzw/>
-
-/**
- * Sprite-Sheets extension v1.0 by 0znzw (English Version)
- * Majority code is by 0znzw || licensed under MIT license.
+/**!
+ * Sprite-Sheets
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
  * Do not remove this comment
  */
 (function(Scratch) {

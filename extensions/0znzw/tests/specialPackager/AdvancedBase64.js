@@ -1,8 +1,10 @@
-/*
-  Created by 0znzw | v1.0
-  Licensed Under MIT License.
-  DO NOT REMOVE THIS COMMENT!!
-*/
+/**!
+ * Advanced Base64
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ */
 (function(Scratch) {
     'use strict';
     if (!Scratch.extensions.unsandboxed) {

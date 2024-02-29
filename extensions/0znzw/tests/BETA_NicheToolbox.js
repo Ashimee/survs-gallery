@@ -1,6 +1,8 @@
-/**
- * Niche Toolbox extension v1.3b by 0znzw (English Version)
- * Majority code is by 0znzw || licensed under MIT license.
+/**!
+ * Niche Toolbox - BETA
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.3b
+ * @copyright MIT & LGPLv3 License
  * Do not remove this comment
  */
 /**
@@ -9,7 +11,6 @@
  *   ObviousAlexC for the Scratch To Canvas Cords function.
  *
  * Profiles:
- *   0znzw:        https://scratch.mit.edu/users/0znzw/
  *   SharkPool:    https://www.youtube.com/@SharkPool_SP/
  *   ObviousAlexC: https://scratch.mit.edu/users/pinksheep2917/
  */

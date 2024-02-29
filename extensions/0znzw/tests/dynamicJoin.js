@@ -1,11 +1,9 @@
-/**
- * Dynamic-Join extension v1.0 by 0znzw (English Version)
- * All code is by 0znzw || LICENSED MIT LICENSE
+/**!
+ * Dynamic Join
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
  * Do not remove this comment
- */
-/**
- * Profiles:
- *   0znzw:        https://scratch.mit.edu/users/0znzw/
  */
 (async function(Scratch) {
     'use strict';

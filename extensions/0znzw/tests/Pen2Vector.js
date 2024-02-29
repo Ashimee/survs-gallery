@@ -1,8 +1,10 @@
-/*
-  Created by 0znzw | v1
-  Licensed Under MIT License.
-  DO NOT REMOVE THIS COMMENT!!
-*/
+/**!
+ * Pen 2 Vector
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ */
 (function (Scratch) {
     window.strokes = [];
     const pen = vm.runtime.ext_pen;

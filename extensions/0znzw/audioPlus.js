@@ -1,7 +1,10 @@
-/*
-* v1.5 | Created by @0znzw.
-* Do not remove this comment
-*/
+/**!
+ * Audio+
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.5
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ */
 (function (Scratch) {
     'use strict';
 

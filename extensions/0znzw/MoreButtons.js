@@ -1,8 +1,11 @@
 /**!
- *
- * Created by 0znzw | v1.6
- * DO NOT REMOVE THIS COMMENT
- *
+ * More Buttons
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ */
+/**!
  * Many thanks to:
  * CST1229 (https://scratch.mit.edu/users/CST1229/) for creating the "getCurrentBlockArgs" function.
  * Bitter_130 for beta testing in packaged project.

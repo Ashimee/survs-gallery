@@ -1,13 +1,10 @@
-// Name: MimeDB
-// ID: 0znzwMimeDB
-// Description: Detect MIME types of file extensions and get the MIME type of an extension.
-// By: 0znzw <https://scratch.mit.edu/users/0znzw/>
-
-/*
-* MimeDB extension v1.0 by 0znzw (English Version)
-* All code is by 0znzw || licensed under MIT license.
-* Do not remove this comment
-*/
+/**!
+ * MimeDB
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ */
 (function(Scratch) {
   'use strict';
 

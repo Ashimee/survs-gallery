@@ -1,3 +1,10 @@
+/**!
+ * some random code
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.0
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ */
 /* eslint-disable */
 /* @ts-ignore-file */
 async trycatch_(args, util) {

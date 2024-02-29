@@ -1,9 +1,11 @@
-/*
-* Switch-Case extension v1.4.3b by 0znzw (English Version)
-* All code is by 0znzw || licensed under MIT license.
-* IF YOU USE THE SWITCH CASE CODE PLEASE PROVIDE CREDIT!!
-* Do not remove this comment
-*/
+/**!
+ * Switch-Case
+ * @author 0znzw https://scratch.mit.edu/users/0znzw/
+ * @version 1.4.3b
+ * @copyright MIT & LGPLv3 License
+ * Do not remove this comment
+ * IF YOU USE THE SWITCH CASE CODE PLEASE PROVIDE CREDIT!!
+ */
 (function(Scratch) {
   'use strict';
 

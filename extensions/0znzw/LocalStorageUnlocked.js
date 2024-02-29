@@ -52,6 +52,7 @@
               }
             }
           }, {
+              hideFromPalette: true,
               opcode: 'whenChanged',
               blockType: Scratch.BlockType.HAT,
               text: 'when another window changes storage',
